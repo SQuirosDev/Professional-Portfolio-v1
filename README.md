@@ -77,7 +77,7 @@ GitHub repository available at:
 ## 🚀 Deployment
 
 The project is deployed using GitHub Pages:  
-🌐 https://squirosdev.github.io/Portafolio/
+🌐 https://squirosdev.github.io/PortafolioV1/
 
 ---
 
@@ -184,7 +184,7 @@ Repositorio disponible en GitHub:
 ## 🚀 Deploy
 
 El proyecto se encuentra desplegado mediante GitHub Pages:  
-🌐 https://squirosdev.github.io/Portafolio/
+🌐 https://squirosdev.github.io/PortafolioV1/
 
 ---
 
